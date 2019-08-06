@@ -26,7 +26,7 @@
     "eslint": "^6.0.0",
     "nock": "^10.0.0",
     "nyc": "^14.0.0",
-    "sinon": "^7.2.4"
+    "sinon": "^7.4.1"
   },
   "dependencies": {
     "form-data": "^2.3.3",
